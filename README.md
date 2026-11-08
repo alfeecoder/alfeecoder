@@ -5,14 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-Computer%20Science-2563EB?style=flat-square" alt="Computer Science Student" />
   <img src="https://img.shields.io/badge/Location-Indonesia-16A34A?style=flat-square" alt="Based in Indonesia" />
   <img src="https://img.shields.io/badge/Status-Currently%20Learning-F59E0B?style=flat-square" alt="Currently learning" />
 </p>
 
 ## About Me
 
-- 🎓 Computer Science student at **SMAN 1 Muaro Jambi, Indonesia**.
+- 🎓 Student at **SMAN 1 Muaro Jambi, Indonesia**.
 - 🌱 Currently learning **Python** and **Web Development**.
 - 💻 Interested in building useful projects and continuously improving my development skills.
 
