@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alfian 👋</h1>
 
 <p align="center">
-  <strong>Computer Science Student</strong> · Aspiring Full-Stack Developer
+  <strong>Computer Science Student</strong>  Aspiring Full-Stack Developer
 </p>
 
 <p align="center">
