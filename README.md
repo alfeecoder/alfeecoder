@@ -38,12 +38,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub Streak" />
 </p>
-
-## GitHub Badges
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&label=Profile%20Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total%20Stars" alt="GitHub Stars" />
 </p>
 
