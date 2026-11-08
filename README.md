@@ -34,9 +34,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub Streak" />
 </p>
   <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total%20Stars" alt="GitHub Stars" />
 </p>
